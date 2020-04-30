@@ -1,0 +1,197 @@
+2020-04-30 19:27:56,070 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-30 19:29:30,269 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml
+2020-04-30 19:29:35,384 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 19:29:38,194 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineAuction/src/main/java
+2020-04-30 19:29:38,196 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /OnlineAuction/src/main/resources
+2020-04-30 19:29:38,196 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /OnlineAuction/src/test/java
+2020-04-30 19:30:05,351 [Worker-9: Creating maven-archetype-webapp] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 35 sec
+2020-04-30 19:30:12,274 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:30:12,467 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:30:12,471 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:30:12,479 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:30:14,102 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:30:14,203 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:30:14,204 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:30:14,235 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:33:24,456 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:33:24,500 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:33:24,504 [Worker-3: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:33:24,524 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:37:35,903 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:37:36,214 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:37:36,215 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:37:36,230 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:39:11,697 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 19:39:13,697 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:39:13,719 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:39:13,722 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:39:13,739 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:39:13,741 [Worker-24: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 19:39:13,762 [Worker-24: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 19:39:13,771 [Worker-24: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:15,127 [Worker-7: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/OnlineAuction/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:851) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1069) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$2.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1067) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:740) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1074) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2020-04-30 19:40:15,186 [Worker-14: Building workspace] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:561) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:570) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:563) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:519) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:365) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:155) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:90) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:87) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:201) [org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) [org.eclipse.equinox.common_3.10.500.v20190815-1535.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) [org.eclipse.core.resources_3.13.500.v20190819-0800.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'build' (position: START_TAG seen ...</dependency>\r\n\r\n\t\t<build>... @24:10) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:114) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:82) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:559) ~[org.eclipse.m2e.core_1.13.0.20190716-1624.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'build' (position: START_TAG seen ...</dependency>\r\n\r\n\t\t<build>... @24:10) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:178) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2243) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[maven-model-3.6.1.jar:3.6.1]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:109) ~[maven-model-builder-3.6.1.jar:3.6.1]
+	... 26 common frames omitted
+2020-04-30 19:40:31,423 [Worker-20: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 19:40:32,826 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:32,884 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:40:32,890 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:32,909 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:40:32,909 [Worker-20: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 19:40:32,910 [Worker-20: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 19:40:32,915 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:33,150 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:33,168 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:40:33,171 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:33,184 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:40:35,094 [Worker-15: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 19:40:35,941 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:35,984 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:40:35,987 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:40:35,997 [Worker-15: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:40:35,997 [Worker-15: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 19:40:35,998 [Worker-15: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 19:40:36,004 [Worker-15: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:41:41,389 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-30 19:41:52,889 [Worker-14: Launching OnlineAuction] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\User\suji\FinalProject\OnlineAuction
+2020-04-30 19:41:52,934 [Worker-14: Launching OnlineAuction] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean compile package
+2020-04-30 19:42:06,038 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-30 19:43:05,272 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:43:05,316 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:43:05,318 [Worker-27: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:43:05,337 [Worker-27: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 19:47:40,505 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:47:40,570 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 19:47:40,573 [Worker-14: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 19:47:40,644 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:10:20,313 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-30 20:10:48,367 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 20:10:48,383 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:10:48,386 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-04-30 20:10:48,421 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:28:31,392 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:28:35,368 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:28:35,368 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:28:35,378 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:28:35,378 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:28:35,440 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:28:35,440 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:28:35,451 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:28:39,061 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:28:39,061 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:28:39,061 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:28:39,064 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:30:19,610 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:30:20,693 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:30:20,701 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:30:20,703 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:30:20,703 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:30:20,703 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:30:20,703 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:30:20,713 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:30:27,376 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:30:28,396 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:30:28,404 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:30:28,406 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:30:28,406 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:30:28,406 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:30:28,406 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:30:28,417 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:31:48,596 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:31:49,800 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:31:49,800 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:31:49,810 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:31:49,810 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:31:49,810 [Worker-21: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:31:49,810 [Worker-21: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:31:49,810 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:32:50,020 [Worker-25: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:32:50,863 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:32:50,863 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:32:50,863 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:32:50,863 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:32:50,863 [Worker-25: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:32:50,863 [Worker-25: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:32:50,873 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:33:55,581 [Worker-23: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:33:57,369 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:33:57,369 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:33:57,369 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:33:57,369 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:33:57,369 [Worker-23: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:33:57,369 [Worker-23: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:33:57,378 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:34:02,847 [Worker-22: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:34:04,106 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:34:04,106 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:34:04,116 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:34:04,116 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:34:04,116 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:34:04,116 [Worker-22: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:34:04,126 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:35:36,818 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:35:36,829 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:35:36,829 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:35:36,829 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:37:42,412 [Worker-26: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: FinalProject:OnlineAuction:0.0.1-SNAPSHOT @ C:\Users\User\suji\FinalProject\OnlineAuction\pom.xml.
+2020-04-30 20:37:43,734 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:37:43,744 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-30 20:37:43,747 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-30 20:37:43,747 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\User\suji\FinalProject\OnlineAuction\src\test\resources
+2020-04-30 20:37:43,747 [Worker-26: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of OnlineAuction
+2020-04-30 20:37:43,747 [Worker-26: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for OnlineAuction
+2020-04-30 20:37:43,756 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
